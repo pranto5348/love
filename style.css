@@ -13,7 +13,8 @@
 
 .love,
 .no,
-.yes {
+.yes,
+h1 {
     padding-top: 20%;
 }
 
@@ -57,8 +58,4 @@ h4 {
 a {
     font-size: 40px;
     color: #0d0c0c;
-}
-
-h1 {
-    text-align: center;
 }
